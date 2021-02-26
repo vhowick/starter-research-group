@@ -1,37 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Virginia Howick
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Sir Henry Dale Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Glasgow
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include vector-parasite interactions.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Vector-parasite interactions
+- Evolutionary genetics
+- Parasitology
+- Single-cell genomics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Entomology
+    institution: Cornell University
+    year: 2015
+  - course: BSc in Microbiology and Genetics
+    institution: University of Minnesota
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +39,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:Virginia.Howick@glasgow.ac.uk'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/GinnyHowick
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=_b_eYuUAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/vhowick
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,9 +64,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Principal Investigator
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I joined the Institute of Biodiversity, Comparative Medicine and Animal Health at the University of Glasgow in 2020 as a Research Fellow to study how malaria parasite populations are shaped by local adaption to vector species.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+More generally I am interested in genotype-phenotype associations and how these associations vary based on enviornmental context. 
