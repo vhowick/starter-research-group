@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Howick Group has been a center of excellence for research in vector-parasite interactions since its founding in 2020.
+The Howick Group has been a center of excellence for research in vector-parasite interactions since its founding in 2020. It is great to have you here.
