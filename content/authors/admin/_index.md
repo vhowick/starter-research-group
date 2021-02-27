@@ -18,7 +18,7 @@ organizations:
   url: "https://www.gla.ac.uk/researchinstitutes/bahcm/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include vector-parasite interactions.
+bio: Biologist
 
 interests:
 - Vector-parasite interactions

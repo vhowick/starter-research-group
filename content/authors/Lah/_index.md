@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Molecular Medicine
+    institution: Mahidol University
+    year: 2020
+  - course: MSc in Clinical Hematology Sciences
+    institution: Chulalongkorn University
+    year: 2015
+  - course: BSc in Medical Technology
+    institution: Chulalongkorn University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
