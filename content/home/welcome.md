@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Welcome to the Howick Group at University of Glasgow"
+title: "Welcome to the Howick Lab"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Howick Group has been a center of excellence for research in vector-parasite interactions since its founding in 2020. It is great to have you here.
+We are based in the Institute of Biodiversity, Animal Health, and Comparative Medicine and the Wellcome Centre for Integrative Parasitology the University of Glasgow. The Howick lab has been a center of excellence for research in vector-parasite interactions since its founding in 2020. 

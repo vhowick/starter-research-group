@@ -18,8 +18,8 @@ content:
   user_groups:
   - Principal Investigator
   - Researchers
-  - Grad Students
-  - Administration
+  - PhD Students
+  - MRes Students
   - Visitors
   - Alumni
 design:

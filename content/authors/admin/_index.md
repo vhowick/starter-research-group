@@ -10,8 +10,8 @@ role: Sir Henry Dale Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Glasgow
-  url: ""
+- name: Institute of Biodiversity, Animal Health & Comparative Medicine
+  url: "https://www.gla.ac.uk/researchinstitutes/bahcm/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include vector-parasite interactions.
