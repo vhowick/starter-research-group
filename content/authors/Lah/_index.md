@@ -21,9 +21,9 @@ organizations:
 bio: I am interested in the evolution of drug resistance in Plasmodium falciparum
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Malaria biology
+- Drug resistance
+- Plasmodium functional genetics
 
 education:
   courses:
