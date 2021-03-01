@@ -16,5 +16,9 @@ advanced:
   css_style:
   css_class:
 ---
-
-We are based in the Institute of Biodiversity, Animal Health, and Comparative Medicine and the Wellcome Centre for Integrative Parasitology the University of Glasgow. The Howick lab has been a center of excellence for research in vector-parasite interactions since its founding in 2020. 
+ 
+We are based in the 
+[Institute of Biodiversity, Animal Health, and Comparative Medicine](https://www.gla.ac.uk/researchinstitutes/bahcm/) 
+and the 
+[Wellcome Centre for Integrative Parasitology](https://www.gla.ac.uk/researchinstitutes/iii/wcip/) 
+ at the University of Glasgow. The Howick lab has been a centre of excellence for research in vector-parasite interactions since its founding in 2020. 
