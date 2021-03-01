@@ -8,11 +8,10 @@ authors:
 - Robert L Unckless
 - Virginia M Howick
 - Brian P Lazzaro
-
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2021-02-27T11:16:34Z
+lastmod: 2021-03-01T17:22:26Z
 featured: false
 draft: false
 
@@ -30,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-27T11:16:34.490124Z'
+publishDate: '2021-03-01T17:22:26.169945Z'
 publication_types:
 - '2'
 abstract: ''

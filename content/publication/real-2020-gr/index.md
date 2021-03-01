@@ -20,7 +20,7 @@ authors:
 tags: []
 categories: []
 date: '2020-10-01'
-lastmod: 2021-02-27T11:16:34Z
+lastmod: 2021-03-01T17:22:25Z
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-27T11:16:33.887126Z'
+publishDate: '2021-03-01T17:22:25.596627Z'
 publication_types:
 - '3'
 abstract: 'Malaria parasites have a complex life cycle featuring diverse developmental

@@ -13,7 +13,7 @@ tags:
   Resistance; Tolerance"'
 categories: []
 date: '2014-01-01'
-lastmod: 2021-02-27T11:16:34Z
+lastmod: 2021-03-01T17:22:26Z
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-27T11:16:34.347105Z'
+publishDate: '2021-03-01T17:22:26.027942Z'
 publication_types:
 - '2'
 abstract: 'Background: Host defense against pathogenic infection is composed of resistance

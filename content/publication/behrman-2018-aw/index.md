@@ -18,7 +18,7 @@ tags:
   adaptation; Thioester-containing protein 3"'
 categories: []
 date: '2018-01-01'
-lastmod: 2021-02-27T11:16:34Z
+lastmod: 2021-03-01T17:22:26Z
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-27T11:16:34.819915Z'
+publishDate: '2021-03-01T17:22:26.449656Z'
 publication_types:
 - '2'
 abstract: o̧pyright 2018 The Author(s) Published by the Royal Society. All rights
