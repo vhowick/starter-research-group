@@ -45,8 +45,15 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
   publication_types = "/publication-type/:slug/"
 
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects" ]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest", "redirects", "headers"]
   section = [ "HTML", "RSS" ]
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
 
 # Configure the Markdown renderer.
 [markup]
@@ -92,3 +99,5 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms"
   [[module.imports]]
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
+
+
