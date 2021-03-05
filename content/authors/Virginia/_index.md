@@ -73,4 +73,4 @@ user_groups:
 
 I joined the Institute of Biodiversity, Comparative Medicine and Animal Health at the University of Glasgow in 2020 as a Research Fellow to study how malaria parasite populations are shaped by local adaption to vector species.
 
-More generally I am interested in genotype-phenotype associations and how these associations vary based on enviornmental context. 
+More generally I am interested in genotype-phenotype associations and how these associations vary based on enviornmental context. As a postdoc at the Sanger Institute, I led the work to build the Malaria Cell Atlas, which is a comprehensive reference of single-cell transcriptomes across the parasite life cycle. Using the methods developed in this work and the data as a reference, I'm now working specifically to understand how parasite population alter gene expression in the mosquito vector to successfully transmit, and how this is dependent on parasite genetic variants and mosquito vector species.

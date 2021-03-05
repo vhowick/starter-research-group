@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Lah Loesbanluechai
+title: Duangkamon (Lah) Loesbanluechai
 
 # Username (this should match the folder name)
 authors:
-- Lah Loesbanluechai
+- Lah
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,16 +14,16 @@ role: Postdoctoral Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: University of Glasgow
+- name: Institute of Biodiversity, Animal Health & Comparative Medicine
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in the evolution of drug resistance in Plasmodium falciparum
 
 interests:
-- Malaria biology
+- Genome-editing in Plasmodium
 - Drug resistance
-- Plasmodium functional genetics
+- Malaria Biology
 
 education:
   courses:
@@ -44,16 +44,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: 'mailto:Duangkamon.Loesbanluechai@glasgow.ac.uk'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +62,6 @@ user_groups:
 
 ---
 
-Lah joined the group in February 2021 to work on genome-editing in Plasmodium
+I am interested in the molecular basis of transmission and drug resistance in Plasmodium spp. in order to study how to prevent malaria spreading. 
+
+ I joined the Howick group at University of Glasgow in February 2021 to work on genome-editing in Plasmodium spp. and identify gene modifications in the parasite that play a role in transmission in various area.
