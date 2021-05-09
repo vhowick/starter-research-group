@@ -34,5 +34,7 @@ Malaria is caused by a unicellular parasite that is transmitted by mosquitoes in
 
 This work will provide a global view of the genetic basis of Anopheles species-dependent transmission dynamics. Understanding how adaptation shapes the malaria parasite is fundamental to public health because treatment or intervention for one parasite strain might be ineffective for another. 
 
+We work closely with several groups at the University of Glasgow including [Lisa Ranford-Cartwright](https://www.gla.ac.uk/researchinstitutes/bahcm/staff/lisaranford-cartwright/), [Matt Marti](https://www.gla.ac.uk/researchinstitutes/iii/staff/matthiasmarti/martilab/), and [Francesco Baldini](https://www.gla.ac.uk/researchinstitutes/bahcm/staff/francescobaldini/). 
+
 {{< figure src="welcome.jpg" caption="Dissection at the microscope" >}}
 
