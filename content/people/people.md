@@ -19,7 +19,7 @@ content:
   - Principal Investigator
   - Researchers
   - PhD Students
-  - MRes Students
+  - Masters Students
   - Visitors
   - Alumni
 design:

@@ -45,7 +45,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
   publication_types = "/publication-type/:slug/"
 
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest", "redirects", "headers"]
+  home = [ "HTML", "RSS", "JSON"]
   section = [ "HTML", "RSS" ]
 
 [mediaTypes."application/manifest+json"]
