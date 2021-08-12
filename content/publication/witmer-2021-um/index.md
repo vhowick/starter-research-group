@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-03-01T17:22:25Z
+lastmod: 2021-08-12T14:38:43+01:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-01T17:22:24.988198Z'
+publishDate: '2021-08-12T13:38:43.443746Z'
 publication_types:
 - '2'
 abstract: The crossing of the mosquito midgut epithelium by the malaria parasite motile
