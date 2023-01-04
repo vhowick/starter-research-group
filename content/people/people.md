@@ -22,8 +22,13 @@ content:
   - Masters Students
   - Visitors
   - Alumni
+
 design:
   show_interests: false
   show_role: true
   show_social: true
 ---
+
+Lab Alumni:
+
+Matteo Putra, MRes 2021
