@@ -29,6 +29,3 @@ design:
   show_social: true
 ---
 
-Lab Alumni:
-
-Matteo Putra, MRes 2021
