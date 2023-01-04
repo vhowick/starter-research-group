@@ -18,7 +18,7 @@ advanced:
 ---
  
 We are based in the 
-[Institute of Biodiversity, Animal Health, and Comparative Medicine](https://www.gla.ac.uk/researchinstitutes/bahcm/) 
+[School of Biodiversity, One Health, and Veterinary Medicine](https://www.gla.ac.uk/schools/bohvm/) 
 and the 
 [Wellcome Centre for Integrative Parasitology](https://www.gla.ac.uk/researchinstitutes/iii/wcip/) 
  at the University of Glasgow. The Howick lab has been a centre of excellence for research in vector-parasite interactions since its founding in 2020. 
