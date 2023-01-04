@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Megan Armstrong, MSc 2021
+title: Lauren Ashcroft, BSc Honours 2022
 
 # Username (this should match the folder name)
 authors:
-- Megan
+- Lauren
 
 # Is this the primary user of the site?
 superuser: false
@@ -13,10 +13,8 @@ superuser: false
 role: MSc student
 
 
-
 user_groups:
 - Alumni
 
 ---
-
 
